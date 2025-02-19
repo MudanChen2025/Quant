@@ -1,0 +1,298 @@
+﻿Statement,Header,Field Name,Field Value
+Statement,Data,BrokerName,Interactive Brokers Hong Kong Limited
+Statement,Data,BrokerAddress,"Suite 1512, Two Pacific Place, 88 Queensway, Admiralty, Hong Kong"
+Statement,Data,Title,Activity Statement
+Statement,Data,Period,"January 1, 2025 - February 6, 2025"
+Statement,Data,WhenGenerated,"2025-02-07, 02:28:32 EST"
+Account Information,Header,Field Name,Field Value
+Account Information,Data,Name,TF INTERNATIONAL SECURITIES GROUP LIMITED
+Account Information,Data,Account,U12393385
+Account Information,Data,Address of Account Holder(s),"11/F, Nexxus Building,41 Connaught Road Central,Hong Kong, 999077,Hong Kong Special Administrative Region of China"
+Account Information,Data,Master Name,TF INTERNATIONAL SECURITIES GROUP LIMITED
+Account Information,Data,Account Type,Institution Client
+Account Information,Data,Customer Type,Corporate
+Account Information,Data,Account Capabilities,Margin
+Account Information,Data,Base Currency,USD
+Net Asset Value,Header,Asset Class,Prior Total,Current Long,Current Short,Current Total,Change
+Net Asset Value,Data,Cash ,43266.634529582,5171.649289989,0,5171.649289989,-38094.985239593
+Net Asset Value,Data,Stock,5530741.92,7079901.78,0,7079901.78,1549159.86
+Net Asset Value,Data,Interest Accruals,956.5239505,1504.1,0,1504.1,547.5760495
+Net Asset Value,Data,Total,5574965.078480083,7086577.529289989,0,7086577.529289989,1511612.450809906
+Net Asset Value,Header,Time Weighted Rate of Return
+Net Asset Value,Data,0.57802962%
+Change in NAV,Header,Field Name,Field Value
+Change in NAV,Data,Starting Value,5574965.078480083
+Change in NAV,Data,Mark-to-Market,34064.1568943
+Change in NAV,Data,Deposits & Withdrawals,1472374.94
+Change in NAV,Data,Dividends,4618.47
+Change in NAV,Data,Interest,1125.2811225
+Change in NAV,Data,Change in Interest Accruals,547.5676808
+Change in NAV,Data,Commissions,-1117.9732569
+Change in NAV,Data,Other FX Translations,0.0083687
+Change in NAV,Data,Ending Value,7086577.529289989
+Mark-to-Market Performance Summary,Header,Asset Category,Symbol,Prior Quantity,Current Quantity,Prior Price,Current Price,Mark-to-Market P/L Position,Mark-to-Market P/L Transaction,Mark-to-Market P/L Commissions,Mark-to-Market P/L Other,Mark-to-Market P/L Total,Code
+Mark-to-Market Performance Summary,Data,Stocks,SGOV,55131,70531,100.3200,100.3800,25357.14,325.72,-806.4650769,4618.47,29494.8649231,
+Mark-to-Market Performance Summary,Data,Total,,,,,,25357.14,325.72,-806.4650769,4618.47,29494.8649231,
+Mark-to-Market Performance Summary,Data,Futures,6CF5,-74,0,0.6956,--,-11840,-3330,-182.78,0,-15352.78,
+Mark-to-Market Performance Summary,Data,Futures,CUSF5,12,0,7.3472,--,10746.7138,-3369.3772,-113.22818,0,7264.10842,
+Mark-to-Market Performance Summary,Data,Futures,ESH5,0,0,--,--,-3525,13600,-9,0,10066,
+Mark-to-Market Performance Summary,Data,Futures,NQH5,0,0,--,--,6980,-855,-4.5,0,6120.5,
+Mark-to-Market Performance Summary,Data,Total,,,,,,2361.7138,6045.6228,-309.50818,0,8097.82842,
+Mark-to-Market Performance Summary,Data,Forex,CNH,180605.6882188,15.09,0.13632,0.1372,-28.12438841,2.087589,-2,0,-28.03679941,
+Mark-to-Market Performance Summary,Data,Forex,HKD,0.00037534,0.000049715,0.12873,0.12843,0.00022071,-0.00012,0,0,0.00010071,
+Mark-to-Market Performance Summary,Data,Forex,USD,18646.467063278,5169.578935604,1.0000,1.0000,0,-0.003007,0,0,-0.003007,
+Mark-to-Market Performance Summary,Data,Total,,,,,,-28.1241677,2.084462,-2,0,-28.0397057,
+Mark-to-Market Performance Summary,Data,Total (All Assets),,,,,,27690.7296323,6373.427262,-1117.9732569,4618.47,37564.6536374,
+Mark-to-Market Performance Summary,Data,Broker Interest Paid and Received,,,,,,,,,,1125.2811225,
+Total P/L for Statement Period,,,,,,,,,,,,38689.9347599,
+Realized & Unrealized Performance Summary,Header,Asset Category,Symbol,Cost Adj.,Realized S/T Profit,Realized S/T Loss,Realized L/T Profit,Realized L/T Loss,Realized Total,Unrealized S/T Profit,Unrealized S/T Loss,Unrealized L/T Profit,Unrealized L/T Loss,Unrealized Total,Total,Code
+Realized & Unrealized Performance Summary,Data,Stocks,SGOV,0,24464.94911841,-0.56975048,0,0,24464.37936793,1226.89501,-0.036738,0,0,1226.858272,25691.23763993,
+Realized & Unrealized Performance Summary,Data,Total,,0,24464.94911841,-0.56975048,0,0,24464.37936793,1226.89501,-0.036738,0,0,1226.858272,25691.23763993,
+Realized & Unrealized Performance Summary,Data,Futures,6CF5,0,0,-11835.56,0,0,-11835.56,0,0,0,0,0,-11835.56,
+Realized & Unrealized Performance Summary,Data,Futures,CUSF5,0,21096.40068,0,0,0,21096.40068,0,0,0,0,0,21096.40068,
+Realized & Unrealized Performance Summary,Data,Futures,ESH5,0,10066,0,0,0,10066,0,0,0,0,0,10066,
+Realized & Unrealized Performance Summary,Data,Futures,NQH5,0,6120.5,0,0,0,6120.5,0,0,0,0,0,6120.5,
+Realized & Unrealized Performance Summary,Data,Total,,0,37282.90068,-11835.56,0,0,25447.34068,0,0,0,0,0,25447.34068,
+Realized & Unrealized Performance Summary,Data,Forex,CNH,0,10.124132,-151.110165,0,0,-140.986033,0,-0.001811,0,0,-0.001811,-140.987844,
+Realized & Unrealized Performance Summary,Data,Total,,0,10.124232,-151.110165,0,0,-140.985933,0,-0.001811,0,0,-0.001811,-140.987744,
+Realized & Unrealized Performance Summary,Data,Total (All Assets),,0,61757.97403041,-11987.23991548,0,0,49770.73411493,1226.89501,-0.038549,0,0,1226.856461,50997.59057593,
+Cash Report,Header,Currency Summary,Currency,Total,
+Cash Report,Data,Starting Cash,Base Currency Summary,43266.634529582,
+Cash Report,Data,Commissions,Base Currency Summary,-1117.9732569,
+Cash Report,Data,Account Transfers,Base Currency Summary,1472374.94,
+Cash Report,Data,Dividends,Base Currency Summary,4618.47,
+Cash Report,Data,Broker Interest Paid and Received,Base Currency Summary,1125.2811225,
+Cash Report,Data,Cash Settling MTM,Base Currency Summary,8407.3366,
+Cash Report,Data,Trades (Sales),Base Currency Summary,7111399.479828991,
+Cash Report,Data,Trades (Purchase),Base Currency Summary,-8634874.39536648,
+Cash Report,Data,Cash FX Translation Gain/Loss,Base Currency Summary,-28.1241677,
+Cash Report,Data,Ending Cash,Base Currency Summary,5171.649289989,
+Cash Report,Data,Ending Settled Cash,Base Currency Summary,5171.649289989,
+Cash Report,Data,Starting Cash,CNH,180605.6882188,
+Cash Report,Data,Commissions,CNH,-832,
+Cash Report,Data,Broker Interest Paid and Received,CNH,28.06,
+Cash Report,Data,Cash Settling MTM,CNH,54480,
+Cash Report,Data,Trades (Purchase),CNH,-234266.6582188,
+Cash Report,Data,Ending Cash,CNH,15.09,
+Cash Report,Data,Ending Settled Cash,CNH,15.09,
+Cash Report,Data,Starting Cash,HKD,0.00037534,
+Cash Report,Data,Broker Interest Paid and Received,HKD,-1.84,
+Cash Report,Data,Trades (Sales),HKD,1.83967437,
+Cash Report,Data,Ending Cash,HKD,0.000049715,
+Cash Report,Data,Ending Settled Cash,HKD,0.000049715,
+Cash Report,Data,Starting Cash,USD,18646.467063278,
+Cash Report,Data,Commissions,USD,-1004.7450769,
+Cash Report,Data,Account Transfers,USD,1472374.94,
+Cash Report,Data,Dividends,USD,4618.47,
+Cash Report,Data,Broker Interest Paid and Received,USD,1121.68,
+Cash Report,Data,Cash Settling MTM,USD,1030,
+Cash Report,Data,Trades (Sales),USD,7111399.243449231,
+Cash Report,Data,Trades (Purchase),USD,-8603016.4765,
+Cash Report,Data,Ending Cash,USD,5169.578935604,
+Cash Report,Data,Ending Settled Cash,USD,5169.578935604,
+Open Positions,Header,DataDiscriminator,Asset Category,Currency,Symbol,Quantity,Mult,Cost Price,Cost Basis,Close Price,Value,Unrealized P/L,Code
+Open Positions,Data,Summary,Stocks,USD,SGOV,70531,1,100.362605404,7078674.921728,100.38,7079901.78,1226.858272,
+Open Positions,Total,,Stocks,USD,,,,,7078674.921728,,7079901.78,1226.858272,
+Forex Balances,Header,Asset Category,Currency,Description,Quantity,Cost Price,Cost Basis in USD,Close Price,Value in USD,Unrealized P/L in USD,Code
+Forex Balances,Data,Forex,USD,CNH,15.09,0.137320013,-2.072159,0.1372,2.070348,-0.001811,
+Forex Balances,Data,Forex,USD,USD,5169.578935604,0,-5169.578935604,1,5169.578935604,0,
+Forex Balances,Data,Total,,,,,-5171.651100604,,5171.649289604,-0.001811,
+Trades,Header,DataDiscriminator,Asset Category,Currency,Symbol,Date/Time,Quantity,T. Price,C. Price,Proceeds,Comm/Fee,Basis,Realized P/L,MTM P/L,Code
+Trades,Data,Order,Stocks,USD,SGOV,"2025-01-08, 05:37:10","15,184",100.41,100.41,-1524625.44,-102.303300841,1524727.743300841,0,0,O;P
+Trades,Data,Order,Stocks,USD,SGOV,"2025-01-31, 11:41:08","-8,996",100.69,100.68,905807.24,-45.751379484,-902569.3436,3192.14502,89.96,C;P
+Trades,Data,Order,Stocks,USD,SGOV,"2025-01-31, 14:52:27","-23,576",100.69,100.68,2373867.44,-108.514540092,-2365390.774784,8368.150676,235.76,C
+Trades,Data,Order,Stocks,USD,SGOV,"2025-01-31, 19:46:02","-37,742",100.68,100.68,3799864.56,-366.190868061,-3786594.285461001,12904.083672,0,C;P
+Trades,Data,Order,Stocks,USD,SGOV,"2025-02-04, 10:55:28","46,715",100.36,100.36,-4688317.4,-101.697699338,4688419.097699339,0,0,O;P
+Trades,Data,Order,Stocks,USD,SGOV,"2025-02-04, 10:55:29","23,815",100.36,100.36,-2390073.4,-82.007289088,2390155.407289088,0,0,O;P
+Trades,SubTotal,,Stocks,USD,SGOV,,15400,,,-1523477,-806.465076904,1548747.844444267,24464.379368,325.72,
+Trades,Total,,Stocks,USD,,,,,,-1523477,-806.465076904,1548747.844444267,24464.379368,325.72, 
+Trades,Header,DataDiscriminator,Asset Category,Currency,Symbol,Date/Time,Quantity,T. Price,C. Price,Notional Value,Comm/Fee,Basis,Realized P/L,MTM P/L,Code
+Trades,Data,Order,Futures,CNH,CUSF5,"2025-01-02, 05:26:10",26,7.3261,7.3268,-19047860,-338,19048198,0,1820,O;P
+Trades,Data,Order,Futures,CNH,CUSF5,"2025-01-07, 10:47:59",-38,7.3471,7.3541,27918980,-494,-27763354,155132,-26600,C;P
+Trades,SubTotal,,Futures,CNH,CUSF5,,-12,,,8871120,-832,-8715156,155132,-24780,
+Trades,Total,,Futures,CNH,,,,,,8871120,-832,-8715156,155132,-24780, 
+Trades,Total,,Futures,USD,,,,,,1201621.6438,-113.22818,-1180412.01494,21096.40068,-3369.3772, 
+Trades,Data,Order,Futures,USD,6CF5,"2025-01-07, 10:00:00",74,0.69765,0.6972,-5162610,-182.78,5150957.220000001,-11835.56,-3330,C;P
+Trades,SubTotal,,Futures,USD,6CF5,,74,,,-5162610,-182.78,5150957.220000001,-11835.56,-3330,
+Trades,Data,Order,Futures,USD,ESH5,"2025-01-02, 18:00:00",2,5919.75,5989.5,-591975,-4.5,591979.5,0,6975,O
+Trades,Data,Order,Futures,USD,ESH5,"2025-01-07, 03:39:39",-2,6020.5,5954.25,602050,-4.5,-591979.5,10066,6625,C
+Trades,SubTotal,,Futures,USD,ESH5,,0,,,10075,-9,0,10066,13600,
+Trades,Data,Order,Futures,USD,NQH5,"2025-01-02, 16:56:53",1,21179.75,21167.5,-423595,-2.25,423597.25,0,-245,O
+Trades,Data,Order,Futures,USD,NQH5,"2025-01-03, 16:56:11",-1,21486,21516.5,429720,-2.25,-423597.25,6120.5,-610,C
+Trades,SubTotal,,Futures,USD,NQH5,,0,,,6125,-4.5,0,6120.5,-855,
+Trades,Total,,Futures,USD,,,,,,-5146410,-196.28,5150957.220000001,4350.94,9415, 
+Trades,Header,DataDiscriminator,Asset Category,Currency,Symbol,Date/Time,Quantity,T. Price,,Proceeds,Comm in USD,,,MTM in USD,Code
+Trades,Data,Order,Forex,CNH,USD.CNH,"2025-01-08, 05:36:16","31,857",7.353,,-234244.521,-2,,,2.087589,
+Trades,SubTotal,,Forex,CNH,USD.CNH,,31857,,,-234244.521,-2,,,2.087589,
+Trades,Total,,Forex,CNH,,,,,,-234244.521,-2,,,2.087589, 
+Trades,Total,,Forex,USD,,,,,,-31854.91241079,-2,,,2.087589, 
+Trades,Data,Order,Forex,HKD,USD.HKD,"2025-01-08, 19:51:30",-0.2365,7.77875,,1.839674375,0,,,-0.00012,
+Trades,SubTotal,,Forex,HKD,USD.HKD,,-0.2365,,,1.839674375,0,,,-0.00012,
+Trades,Total,,Forex,HKD,,,,,,1.839674375,0,,,-0.00012, 
+Trades,Total,,Forex,USD,,,,,,0.23637976,0,,,-0.00012, 
+Trades,Data,Order,Forex,USD,CNH.USD,"2025-01-10, 19:51:58",-22.1372188,0.13567419,,3.00344923,0,,,-0.003007,
+Trades,SubTotal,,Forex,USD,CNH.USD,,-22.1372188,,,3.00344923,0,,,-0.003007,
+Trades,Total,,Forex,USD,,,,,,3.00344923,0,,,-0.003007, 
+Deposits & Withdrawals,Header,Currency,Settle Date,Description,Amount
+Deposits & Withdrawals,Data,USD,2025-01-08,Internal Transfer In From Account U10823965,1472374.94
+Deposits & Withdrawals,Data,Total,,,1472374.94
+Fees,Header,Subtitle,Currency,Date,Description,Amount
+Fees,Data,Other Fees,USD,2025-01-03,Q********EE:GLOBAL SNAPSHOT PNP FOR DEC 2024,-0.93
+Fees,Data,Other Fees,USD,2025-01-03,Q********EE:GLOBAL SNAPSHOT PNP FOR DEC 2024,0.93
+Fees,Data,Other Fees,USD,2025-01-03,Q********EE:US CONSOLIDATED SNAPSHOT FOR DEC 2024,-0.03
+Fees,Data,Other Fees,USD,2025-01-03,Q********EE:US CONSOLIDATED SNAPSHOT FOR DEC 2024,0.03
+Fees,Data,Other Fees,USD,2025-02-04,Q********EE:GLOBAL SNAPSHOT PNP FOR JAN 2025,-0.09
+Fees,Data,Other Fees,USD,2025-02-04,Q********EE:GLOBAL SNAPSHOT PNP FOR JAN 2025,0.09
+Fees,Data,Other Fees,USD,2025-02-04,Q********EE:US CONSOLIDATED SNAPSHOT FOR JAN 2025,-0.01
+Fees,Data,Other Fees,USD,2025-02-04,Q********EE:US CONSOLIDATED SNAPSHOT FOR JAN 2025,0.01
+Fees,Data,Total,,,,0
+Fees,Notes,"Market data is provided by Global Financial Information Services (GmbH). Your local broker collects amounts owed for fees and tax for such data on behalf of Global Financial Information Services (GmbH). Note, you are responsible for any applicable taxes relating to the provision of these services."
+Dividends,Header,Currency,Date,Description,Amount
+Dividends,Data,USD,2024-12-23,Cancel SGOV(US46436E7186) Cash Dividend USD 0.371954 per Share (Ordinary Dividend) from U10823965,-10775.84
+Dividends,Data,USD,2024-12-23,SGOV(US46436E7186) Cash Dividend USD 0.371954 per Share (Ordinary Dividend) from U10823965,15394.06
+Dividends,Data,USD,2025-02-06,SGOV(US46436E7186) Cash Dividend USD 0.363396 per Share (Ordinary Dividend) from U10823965,0.25
+Dividends,Data,Total,,,4618.47
+Interest,Header,Currency,Date,Description,Amount
+Interest,Data,CNH,2025-01-06,CNH Credit Interest for Dec-2024 from U10823965,12.97
+Interest,Data,CNH,2025-02-05,CNH Credit Interest for Jan-2025 from U10823965,15.09
+Interest,Data,Total,,,28.06
+Interest,Data,Total in USD,,,3.8377649
+Interest,Data,HKD,2025-01-06,HKD Credit Interest for Dec-2024 from U10823965,9.27
+Interest,Data,HKD,2025-01-06,HKD Debit Interest for Dec-2024 from U10823965,-11.11
+Interest,Data,Total,,,-1.84
+Interest,Data,Total in USD,,,-0.2366424
+Interest,Data,USD,2025-01-06,USD Credit Interest for Dec-2024 from U10823965,962.54
+Interest,Data,USD,2025-01-06,USD Debit Interest for Dec-2024 from U10823965,-6.82
+Interest,Data,USD,2025-02-05,USD Credit Interest for Jan-2025 from U10823965,171.43
+Interest,Data,USD,2025-02-05,USD Debit Interest for Jan-2025 from U10823965,-5.47
+Interest,Data,Total,,,1121.68
+Interest,Data,Total Interest in USD,,,1125.2811225
+Interest Accruals,Header,Currency,Field Name,Field Value
+Interest Accruals,Data,Base Currency Summary,Starting Accrual Balance,956.5239505
+Interest Accruals,Data,Base Currency Summary,Interest Accrued,1672.8488033
+Interest Accruals,Data,Base Currency Summary,Accrual Reversal,-1125.2811225
+Interest Accruals,Data,Base Currency Summary,FX Translation,0.0083687
+Interest Accruals,Data,Base Currency Summary,Ending Accrual Balance,1504.1
+Interest Accruals,Data,CNH,Starting Accrual Balance,8.23
+Interest Accruals,Data,CNH,Interest Accrued,19.83
+Interest Accruals,Data,CNH,Accrual Reversal,-28.06
+Interest Accruals,Data,CNH,Ending Accrual Balance,0
+Interest Accruals,Data,CNH,Ending Accrual Balance in USD,0
+Interest Accruals,Data,HKD,Starting Accrual Balance,-2.47
+Interest Accruals,Data,HKD,Interest Accrued,0.63
+Interest Accruals,Data,HKD,Accrual Reversal,1.84
+Interest Accruals,Data,HKD,Ending Accrual Balance,0
+Interest Accruals,Data,HKD,Ending Accrual Balance in USD,0
+Interest Accruals,Data,USD,Starting Accrual Balance,955.72
+Interest Accruals,Data,USD,Interest Accrued,1670.06
+Interest Accruals,Data,USD,Accrual Reversal,-1121.68
+Interest Accruals,Data,USD,Ending Accrual Balance,1504.1
+Change in Dividend Accruals,Header,Asset Category,Currency,Symbol,Date,Ex Date,Pay Date,Quantity,Tax,Fee,Gross Rate,Gross Amount,Net Amount,Code
+Change in Dividend Accruals,Data,Starting Dividend Accruals in USD,,,,,,,,,,,0,
+Change in Dividend Accruals,Data,Stocks,USD,SGOV,2025-01-31,2025-02-03,2025-02-06,1,0,0,0.363396,0.25,0.25,Po;Al
+Change in Dividend Accruals,Data,Stocks,USD,SGOV,2025-01-31,2025-02-03,2025-02-06,1,0,0,0.363396,-0.25,-0.25,Re;Al
+Change in Dividend Accruals,Data,Total,,,,,,,0,0,,0,0,
+Change in Dividend Accruals,Data,Ending Dividend Accruals in USD,,,,,,,,,,,0,
+Financial Instrument Information,Header,Asset Category,Symbol,Description,Conid,Security ID,Underlying,Listing Exch,Multiplier,Type,Code
+Financial Instrument Information,Data,Stocks,SGOV,ISHARES 0-3 MONTH TREASURY B,424099317,US46436E7186,SGOV,ARCA,1,ETF,
+Financial Instrument Information,Header,Asset Category,Symbol,Description,Conid,Underlying,Listing Exch,Multiplier,Expiry,Delivery Month,Code
+Financial Instrument Information,Data,Futures,6CF5,CAD 14JAN25,724311619,CAD,CME,"100,000",2025-01-14,2025-01,
+Financial Instrument Information,Data,Futures,CUSF5,CNH 13JAN25,729196674,CNH,HKFE,"100,000",2025-01-13,2025-01,
+Financial Instrument Information,Data,Futures,ESH5,ES 21MAR25,603558932,ES,CME,50,2025-03-21,2025-03,
+Financial Instrument Information,Data,Futures,NQH5,NQ 21MAR25,666754605,NQ,CME,20,2025-03-21,2025-03,
+Codes,Header,Code,Meaning,Code (Cont.),Meaning (Cont.)
+Codes,Data,A,Assignment
+Codes,Data,ADR,ADR Fee Accrual
+Codes,Data,AEx,Automatic exercise for dividend-related recommendation.
+Codes,Data,AFx,AutoFX conversion resulting from trading
+Codes,Data,Adj,Adjustment
+Codes,Data,Al,Allocation
+Codes,Data,Aw,Away Trade
+Codes,Data,B,Automatic Buy-in
+Codes,Data,Bo,Direct Borrow
+Codes,Data,C,Closing Trade
+Codes,Data,CD,Cash Delivery
+Codes,Data,CP,Complex Position
+Codes,Data,Ca,Cancelled
+Codes,Data,Co,Corrected Trade
+Codes,Data,Cx,Part or all of this transaction was a Crossing executed as dual agent by IB for two IB customers
+Codes,Data,DT,Discounted Trade
+Codes,Data,De,Delivery or Conversion Action
+Codes,Data,ETF,ETF Creation/Redemption
+Codes,Data,Ep,Resulted from an Expired Position
+Codes,Data,Ex,Exercise
+Codes,Data,FP,The fractional portion of this trade was executed against IB or an affiliate.
+Codes,Data,FPA,The fractional portion of this trade was executed against IB or an affiliate. IB acted as agent for the whole share portion of this trade.
+Codes,Data,G,Trade in Guaranteed Account Segment
+Codes,Data,GEA,Exercise or Assignment resulting from offsetting positions
+Codes,Data,HC,Highest Cost tax basis election
+Codes,Data,HFI,Investment Transferred to Hedge Fund
+Codes,Data,HFR,Redemption from Hedge Fund
+Codes,Data,I,Internal Transfer
+Codes,Data,IA,The transaction was executed against IB or an affiliate
+Codes,Data,IM,A portion of the order was executed against IB or an affiliate; IB acted as agent on a portion.
+Codes,Data,INV,Investment Transfer from Investor
+Codes,Data,IPO,This transaction was executed as part of an IPO in which IB was a member of the selling group and is classified as a Principal trade.
+Codes,Data,L,Ordered by IB (Margin Violation)
+Codes,Data,LD,Adjusted by Loss Disallowed from Wash Sale
+Codes,Data,LI,"Last In, First Out (LIFO) tax basis election"
+Codes,Data,LT,Long Term P/L
+Codes,Data,Lo,Direct Loan
+Codes,Data,M,Entered manually by IB
+Codes,Data,MEx,Manual exercise for dividend-related recommendation.
+Codes,Data,ML,Maximize Losses tax basis election
+Codes,Data,MLG,Maximize Long Term Gain tax basis election
+Codes,Data,MLL,Maximize Long Term Loss tax basis election
+Codes,Data,MSG,Maximize Short Term Gain tax basis election
+Codes,Data,MSL,Maximize Short Term Loss tax basis election
+Codes,Data,O,Opening Trade
+Codes,Data,Off,Yes and No contracts offset to $1.00 cash settlement
+Codes,Data,P,Partial Execution
+Codes,Data,PE,Perpetual Investment
+Codes,Data,PI,Price Improvement
+Codes,Data,PTA,Post Trade Allocation
+Codes,Data,Po,Interest or Dividend Accrual Posting
+Codes,Data,Pr,Part or all of this transaction was executed by the Exchange as a Crossing by IB against an IB affiliate and is therefore classified as a Principal and not an agency trade
+Codes,Data,R,Dividend Reinvestment
+Codes,Data,RED,Redemption to Investor
+Codes,Data,RI,Recurring Investment
+Codes,Data,RP,"IB acted as agent for the fractional share portion of this trade, which was executed by an IB affiliate as riskless principal."
+Codes,Data,RPA,IB acted as agent for both the fractional share portion and the whole share portion of this trade; the fractional share portion was executed by an IB Affiliate as riskless principal.
+Codes,Data,Rb,Rebill
+Codes,Data,Re,Interest or Dividend Accrual Reversal
+Codes,Data,Ri,Reimbursement
+Codes,Data,S0,Contract settled to zero value
+Codes,Data,S1,Contract settled to $1.00
+Codes,Data,SF,Trade is subject to IBKR Lite Surcharge Fee if volume of such trades exceeds 10% of the total monthly Lite trade volume
+Codes,Data,SI,This order was solicited by Interactive Brokers
+Codes,Data,SL,Specific Lot tax basis election
+Codes,Data,SO,This order was marked as solicited by your Introducing Broker
+Codes,Data,SS,Customer designated this trade for shortened settlement and so is subject to execution at prices above the prevailing market
+Codes,Data,ST,Short Term P/L
+Codes,Data,T,Transfer
+Codes,Data,Un,Unvested shares from stock grant
+Codes,Data,XCH,Mutual Fund Exchange Transaction
+Notes/Legal Notes,Header,Type,Note
+Notes/Legal Notes,Data,Notes,"Stock exchange transactions generally settle on the trade date plus one business day (T+1). Options, futures and US open-end mutual fund transactions also settle on trade date plus one business day. Some exchanges and other transaction types may have longer or shorter settlement periods. Ending settled cash reflects the cash that has actually settled."
+Notes/Legal Notes,Data,Notes,Initial and maintenance margin requirements are available within the Account Window of the Trader Workstation or the Margin Report available in Account Management.
+Notes/Legal Notes,Data,Notes,"Quantities preceded by a ""-"" sign indicate sell transactions. Other transactions are purchases. "
+Notes/Legal Notes,Data,Notes,"IB acts as agent in executing the fractional share portion of your order. In certain circumstances, IB routes the fractional portion of your order to an affiliate, which may execute the fractional portion of the order as principal. In such circumstances, this is indicated by the codes associated with the trade. If an IB affiliate acts as principal in executing any fractional share portion of your order, the order will be executed at the price displayed for the opposite side of the NBBO from your order (the offer if you are buying and the bid if you are selling) at the time of execution. If an IB affiliate is acting as riskless principal in connection with filling the fractional share portion of your order, the affiliate will execute the fractional share portion of your order at the price it receives for the execution of the whole share."
+Notes/Legal Notes,Data,Notes,"In case of partial executions, commissions are charged on the total quantity executed on the original order. The commission is displayed on the first partial execution only."
+Notes/Legal Notes,Data,Notes,Trade execution times are displayed in United States Eastern Time.
+Notes/Legal Notes,Data,Notes,Applicable regulatory fees for your transactions are available on the IB website at www.interactivebrokers.com/en/accounts/fees/exchangeAndRegulatoryFees.php.
+Notes/Legal Notes,Data,Notes,"Borrow Fee Rate represents the cost to borrow stock expressed in percent per annum. It is applied to the collateral value on the stock borrow contract and is separate from any interest earned on credit cash balances. Similarly, Loan Fee Rate represents the benefit to lend stock. A positive rate indicates a cost to the borrower/benefit to the lender and a negative rate indicates a benefit to the borrower/cost to the lender. In general, the fee rates for hard-to-borrow stocks are higher than for normal availability stocks."
+Notes/Legal Notes,Data,Notes,Interest Rate on Customer Collateral represents the interest paid on the collateral posted to the customer's account and received from lending stock.  A positive rate indicates a benefit to the lender.
+Notes/Legal Notes,Data,Notes,"The closing prices on this Activity Statement are indicative and may come from third-party sources. Interactive Brokers does not warrant the accuracy of the prices provided by third-party sources. Due to time zone differences, certain non-US mutual funds may deliver closing prices after the Activity Statement has been produced and the closing prices for such funds will reflect the previous day's price."
+Notes/Legal Notes,Data,Notes,All Market Data and Research services are provided through Global Financial Information Services (GmbH).
+Notes/Legal Notes,Data,Notes,"Market data is provided by Global Financial Information Services (GmbH). Your local broker collects amounts owed for fees and tax for such data on behalf of Global Financial Information Services (GmbH). Note, you are responsible for any applicable taxes relating to the provision of these services."
+Notes/Legal Notes,Data,Mutual Fund Notes,"All purchase and sales of mutual funds are calculated against the published NAV (Net Asset Value) of the underlying fund and is displayed on this confirmation as the ""C. Price"" (Closing Price). Due to any fees charged by a fund and/or any share rounding, the net price you pay may vary from the published NAV and is shown on this confirmation as the ""T. Price"" (Trade Price)."
+Notes/Legal Notes,Data,Fixed Income Notes,"Call features for bonds or preferred stocks may affect the yield. For zero coupon, compound interest and multiplier securities, there are no periodic payments and securities may be callable below maturity value without notice to holder unless registered. For asset-backed securities, the actual yield may vary depending on the speed at which the underlying note is pre-paid. For additional information regarding bond yield, please contact the IB Help Desk at: ibkr.com/help. If this debt security is unrated by a nationally recognized statistical rating organization, it may pose a high risk of default. You should consult an independent advisor to determine whether unrated bonds are appropriate for your portfolio in light of your goals and your financial circumstances. Fees charged by bond trading centers are included in the cost of bond transactions."
+Notes/Legal Notes,Data,Legal Notes,"Please promptly report any inaccuracy or discrepancy in this statement, or in your account. Contact the IB Customer Service Department in writing using the form available on the IB website. You may also contact IB by phone, but if you report an error by phone, you should re-confirm such oral communication in writing in order to protect your rights.Interactive Brokers Singapore Pte. Ltd., www.interactivebrokers.com.sg, +65 6923 5600 (S.G.)Interactive Brokers Hong Kong Ltd, www.interactivebrokers.com.hk, +852 2156 7907 (H.K.)Interactive Brokers LLC, www.interactivebrokers.com, 877-442-2757 (U.S.)Interactive Brokers (UK) (Ltd), www.interactivebrokers.co.uk, 00800-42-276537 (Intl)Interactive Brokers Canada Inc., www.interactivebrokers.ca, 877-745-4222 (Can.)"
+Notes/Legal Notes,Data,Legal Notes,"Interactive Brokers Hong Kong Ltd is located at Suite 1512, Two Pacific Place, 88 Queensway, Admiralty, Hong Kong."
+Notes/Legal Notes,Data,Legal Notes,"Unless otherwise noted, Interactive Brokers acted as agent in the execution of the above transactions. For those exchanges where IB is not a direct clearing member or custodian, IB may use one of the following clearing agents or sub-custodians: Interactive Brokers LLC and Interactive Brokers (U.K.) Limited."
+Notes/Legal Notes,Data,Legal Notes,"IB acts as agent or riskless principal in foreign currency exchange transactions.  Such transactions are executed against an IB affiliate or a third party, which acts as principal in such transactions and may have a long or short position and may have profited or lost in connection with the transaction.  Foreign currency exchange transactions executed by Customer through IB are not regulated or overseen by the SFC."
+Notes/Legal Notes,Data,Legal Notes,"IB accepts liquidity rebates or other order flow payments from Alternative Trading Systems, market makers and exchanges for certain orders in stocks. IB receives payment for some option orders pursuant to exchange-mandated marketing fee programs or other arrangements. The source and nature of any compensation received by IB in connection with any transaction is available upon written request of the customer. For further information, check the IB website and the Order Routing and Payment for Order Flow Disclosure provided when you opened your account and annually or visit ibkr.com/help.  "
+Notes/Legal Notes,Data,Legal Notes,"For security futures trades, if not already indicated on this statement, information about the time of any transaction, the identity of the counterparty to the transaction, and whether IB is acting as agent or principal, as agent for the counterparty, as agent for both parties to the contract, or as principal, and if acting as principal, whether the transaction was a block transaction or an exchange for physicals transaction, will be available upon written request of the customer."
+Notes/Legal Notes,Data,Legal Notes,Customer is requested to promptly advise Interactive Brokers of any material change in Customer's investment objectives.
+Notes/Legal Notes,Data,Legal Notes,"For trades executed on the ASX market, the ASX 24 market and the Cboe Australia market, this confirmation is issued subject to: (i) the Applicable Laws, the directions, decisions and requirements of the relevant market operator, the operating rules of the relevant market, the clearing rules and where relevant, the relevant settlement rules, (ii) the customs and usages of the relevant financial market, and (iii) the correction of errors and omissions. Trades in Cash Market Products (as that term is defined in the relevant ASIC market integrity rules) on ASX market and Cboe Australia are cleared by BNP Paribas, ARBN 149 440 291, AFSL 402467, who is a participant of ASX Clear Pty Ltd and ASX Settlement Pty Ltd. Trades in Derivative Products on ASX and all products on ASX 24 are cleared by Interactive Brokers Australia (“IBA”) as a participant of ASX Clear Pty Ltd and ASX Clear (Futures) Pty Ltd. If your transaction was a crossing transaction, IBA may have either acted on behalf of (i) both the buyer and seller of this transaction, or (ii) on behalf of the buyer or seller on one side of the transaction and acted as Principal on the other side. Under the Corporations Act 2001, where IBA enters into an exchange traded derivative on a customer's behalf, IBA is regarded as having issued the derivative to the customer."
+Notes/Legal Notes,Data,Legal Notes,"For All Options Trades Executed on the Stock Exchange of Hong Kong (""SEHK""): (a) Options can involve a high degree of risk and may not be suitable for every investor. Investors should ensure they understand those risks before participating in the options market. (b) All options contracts executed on the SEHK were executed by Interactive Brokers Hong Kong Limited. (c) In the event of a default committed by Interactive Brokers resulting in the client suffering any pecuniary loss, the client shall have a right to claim under the Investor Compensation Fund established under the Hong Kong Securities and Futures Ordinance, subject to the terms of the Investor Compensation Fund from time to time. (d) All Exchange Traded Options Business made for or on behalf of a client shall be subject to the relevant provisions of the constitution, Rules of The Stock Exchange of Hong Kong Limited (""SEHK Rules""), regulations, the Articles, customs and usages of SEHK, the Options Trading Rules, the Clearing Rules of SEOCH, the CCASS Rules and the laws of Hong Kong, which shall be binding on both Interactive Brokers and the client."
